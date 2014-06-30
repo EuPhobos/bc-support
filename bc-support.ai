@@ -1,0 +1,4 @@
+[AI]
+name = "bc-support"
+js = bc-support/bc-support.js
+tip = "Support for Player game"
